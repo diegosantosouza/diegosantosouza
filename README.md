@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho na PMESP com projeto e desenvolvimento de software
 - 🌱 Estudando C# e javascript
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/diegosantosouza">
