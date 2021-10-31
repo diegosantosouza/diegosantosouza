@@ -2,7 +2,7 @@
 
 - 🔭 Projeto e desenvolvimento de software Backend
 
-## "Nada no mundo pode superar a persistência. O talento não supera. Não há mais nada comum que talentosos fracassados. A genialidade não supera. Um gênio desconhecido é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. Apersistência e a determinação são muito poderosas."
+#### "Nada no mundo pode superar a persistência. O talento não supera. Não há mais nada comum que talentosos fracassados. A genialidade não supera. Um gênio desconhecido é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. Apersistência e a determinação são muito poderosas."
 
 
 <div>
